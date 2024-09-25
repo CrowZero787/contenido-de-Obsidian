@@ -167,7 +167,9 @@ Lo seguimos mejorando
 Lo seguimos mejorando, pero ahora le ponemos todas las magias multi-target para cubrir debilidades.
 ### Girimehkala
 Persona de nivel 43 que usamos porque repele ataques físicos y tiene solo debilidad a la luz. Le debemos poner la habilidad Retaliating Body que duplica el daño reflejado. En resumen, para tener esa hablidad y tener resistencias a bendición haremos la siguiente fusión.
+
 ![](Pasted%20image%2020240923003333.png)
+
 Tambien le podemos agregar: 
 - **Deathbound** que es un buen ataque física en área que se obtiene usando la silla en modo alarma con esta misma persona.
 - **Myriad Slashes** que es un buen ataque físico single target que se obtiene en la silla eléctrica en modo alarma con Dakini (nivel 50)
